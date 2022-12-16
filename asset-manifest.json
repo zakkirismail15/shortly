@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/url-shortener/static/js/main.b619ea8c.js",
+    "static/media/illustration-working.svg": "/url-shortener/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/logo.svg": "/url-shortener/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "index.html": "/url-shortener/index.html",
+    "static/media/bg-shorten-desktop.svg": "/url-shortener/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b40ccf28727af.svg",
+    "main.b619ea8c.js.map": "/url-shortener/static/js/main.b619ea8c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b619ea8c.js"
+  ]
+}
