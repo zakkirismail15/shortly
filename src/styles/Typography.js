@@ -20,6 +20,11 @@ export const H5 = styled.h5`
   font-weight: 300;
 `;
 
+export const H6 = styled.h6`
+  font-size: 1rem;
+  font-weight: 700;
+`;
+
 export const Para = styled.p`
   font-size: 1.2rem;
   color: var(--GrayishBlue);

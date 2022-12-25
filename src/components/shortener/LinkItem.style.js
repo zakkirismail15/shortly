@@ -6,6 +6,10 @@ export const LinkResultContainer = styled.div`
   justify-content: center;
   padding-top: 5rem;
   width: 100%;
+
+  @media (max-width: 375px) {
+    padding-top: 10rem;
+  }
 `;
 
 export const LinkResultItem = styled.div`
@@ -36,7 +40,8 @@ export const ShortenedLinkWrapper = styled.div`
 `;
 
 export const LinkItemButton = styled.button`
-  background: ${(props) => (props.className ? "var(--DarkViolet)" : "var(--Cyan)")};
+  background: ${(props) =>
+    props.className ? "var(--DarkViolet)" : "var(--Cyan)"};
   display: flex;
   align-items: center;
   justify-content: center;
